@@ -592,6 +592,18 @@ i.message{
 	background: url(../images/img-sprite.png)no-repeat -111px -123px;
 	margin-right: 2%;
 }
+.insta img{
+	height: 35px;
+	width: 35px;
+	/* float: left;
+	background: url(../images/insta.png)no-repeat -80px -113px;
+	background-size: 20px 20px;	
+	margin-right: 2%; */
+}
+.insta .msg{
+	padding-left: 9em;
+	margin-left: 5em;
+}
 ul.contact_info span {
 	color: #FFF;
 	font-size: 1em;
